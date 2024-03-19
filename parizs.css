@@ -76,7 +76,17 @@ table, table th, table td
   text-align: center;
 }
 
-.fejlec{
-    background-image: ;
+.fejlec {
+    background-image: url('notredame.jpg');
+    height: 200px;
 }
 
+#fejlec {
+    background-image: url('notredame.jpg');
+    height: 200px;
+}
+
+#fejlec h1 {
+    font-size: 48px;
+    text-align: center;
+}
