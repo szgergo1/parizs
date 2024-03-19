@@ -76,11 +76,6 @@ table, table th, table td
   text-align: center;
 }
 
-.fejlec {
-    background-image: url('notredame.jpg');
-    height: 200px;
-}
-
 #fejlec {
     background-image: url('notredame.jpg');
     height: 200px;
@@ -96,4 +91,20 @@ table, table th, table td
     padding: 5px;
     font-size: 12pt;
 }
+
+#kepeiffel {
+    float: right;
+}
+
+h2 {
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 14px;
+    font-style: italic;
+}
+
+
 
