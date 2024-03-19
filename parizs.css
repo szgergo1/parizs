@@ -90,3 +90,10 @@ table, table th, table td
     font-size: 48px;
     text-align: center;
 }
+
+#latnivalok {
+    text-align: justify;
+    padding: 5px;
+    font-size: 12pt;
+}
+
